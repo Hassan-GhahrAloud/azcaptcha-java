@@ -1,3 +1,5 @@
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.Hassan-GhahrAloud/arithmetic/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.Hassan-GhahrAloud/azcaptcha-java)
+
 # JAVA Module for AZCaptcha API
 The easiest way to quickly integrate [AZCaptcha] into your code to automate solving of any types of captcha.
 
