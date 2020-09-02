@@ -9,8 +9,8 @@
     <version>1.0</version>
 
     <name>azcaptcha-java</name>
-    <description>Java library for easy integration with the API of azcaptcha captcha solving service to bypass
-        recaptcha, hcaptcha, funcaptcha, geetest and solve any other captchas.
+    <description>
+        Java library for easy integration with the API of azcaptcha captcha solving service to bypass recaptcha, hcaptcha and normal captcha.
     </description>
     <url>https://github.com/Hassan-GhahrAloud/azcaptcha-java</url>
 
@@ -124,13 +124,12 @@
         </plugins>
     </build>
 
-
     <profiles>
         <profile>
             <id>release</id>
             <build>
                 <plugins>
-                         
+
                     <plugin>
                         <groupId>org.sonatype.plugins</groupId>
                         <artifactId>nexus-staging-maven-plugin</artifactId>
