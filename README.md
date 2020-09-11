@@ -144,6 +144,6 @@ try {
     // captcha is not solved so far
 }
 ```
-[Maven Central]: https://search.maven.org/artifact/com.github.azcaptcha/azcaptcha-java
+[Maven Central]: https://maven-badges.herokuapp.com/maven-central/com.github.hassan-ghahraloud/azcaptcha-java
 [examples directory]: /src/main/java/examples
 [AZCaptcha]: https://azcaptcha.com/
